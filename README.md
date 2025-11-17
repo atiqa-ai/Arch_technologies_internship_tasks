@@ -32,48 +32,27 @@ A fully working Streamlit web interface
 
 ## 📊 Model Performance
 
-🎯 Accuracy: 
-
-sr Model Accuracy Precision
-
-1    KN 	      0.904255    	1.000000
-
-2	  RF	        0.967118	    1.000000
-
-3	  ETC      	  0.971954	    0.991525
-
-4	  LR 	        0.970986	    0.945736
-
-5	  xgb	        0.970019	    0.945312
-
-6	  DT	        0.924565	    0.935065
-
-7	  NB 	        0.973888	    0.888158
-
-8	  GBDT	      0.934236	    0.881188
-
-9	  SVC	         0.932302	    0.773723
 
 
 🧮 Vectorizer: TF-IDF
 
 🤖 Algorithm Used: Logistic Regression
 
-# SVc
+# SVC   Accuracy:  0.93
 
-## Random Forest
+## Random Forest    Accuracy:  0.96
 
-## Decision Tree
+## Decision Tree    Accuracy:  0.92
 
-## XGBoost 
+## XGBoost         Accuracy:  0.97
 
-## KNN Classifier
+## KNN Classifier      Accuracy:  0.90
 
-## GradientBooster
+## GradientBooster     Accuracy:  0.93
 
-## Multinomial Naive Bayes
+## Multinomial Naive Bayes     Accuracy:  0.97
 
-## 🌐 Streamlit Web App
+## 🌐 Streamlit Web App 
 
 The UI is simple and interactive.
 You can type any text email and instantly see whether it is spam.
