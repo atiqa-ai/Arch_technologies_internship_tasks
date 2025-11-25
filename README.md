@@ -1,71 +1,33 @@
-# 📮 Email Spam Classifier using Machine Learning (with Streamlit Web App)
+# 📂 Internship Python Projects – @Arch Technologies
 
-This is a Machine Learning–based Email Spam Detection System using Naive bayes that identifies whether an email is Spam or Not Spam. The project includes both the ML model and a Streamlit web application so users can test emails in real time.
-🔍 Overview
+During my internship at @Arch Technologies, I worked on practical Python & Machine Learning projects to strengthen my real-world coding skills.
 
-The model learns patterns from a labeled dataset of emails and predicts if a new email is spam.
-Text data is cleaned, transformed using TF-IDF Vectorization, and classified using a supervised ML algorithm.
+## 1️⃣ Email Spam Classifier 📨
 
-## This repository includes:
+Data preprocessing and normalization
 
-Complete data preprocessing
+Detects whether an email is Spam or Not Spam
 
-Model training
+Uses TF-IDF, ML algorithms (Naive Bayes, XGBoost, Random Forest, etc.)
 
-Trained model files (model.pkl, vectorizer.pkl)
+Accuracy: up to 97%
 
-A fully working Streamlit web interface
+**Streamlit Web App**: test emails in real-time
 
-## 🚀 How It Works
+## 2️⃣ MNIST Digit Classifier ✨
 
-✍️ User enters email text
+Recognizes handwritten digits (0–9) from image data
 
-🧹 Text is cleaned (lowercase, remove symbols, stopwords, etc.)
+Trained ML models for high accuracy classification
 
-🔢 TF-IDF converts text into numerical form
+Strengthened skills in image preprocessing & model evaluation
 
-## 🤖 ML model predicts:
+**Key Takeaways:**
 
-1 → Spam
+Built end-to-end ML pipelines
 
-0 → Not Spam
+Hands-on experience with Streamlit apps
 
-## 📊 Model Performance
+Improved problem-solving & coding discipline 💡🐍
 
-
-
-🧮 Vectorizer: TF-IDF
-
-🤖 Algorithm Used: Logistic Regression
-
-# SVC   Accuracy:  0.93
-
-## Random Forest  
-
-Accuracy:  0.96
-
-## Decision Tree  
-
-Accuracy:  0.92
-
-## XGBoost     
-
-Accuracy:  0.97
-
-## KNN Classifier  
-
-Accuracy:  0.90
-
-## GradientBooster  
-
-Accuracy:  0.93
-
-## Multinomial Naive Bayes 
-
-Accuracy:  0.97
-
-## 🌐 Streamlit Web App 
-
-The UI is simple and interactive.
-You can type any text email and instantly see whether it is spam.
-Perfect for beginners and demonstration projects.
+This internship will help to learn new and advance ML algorithms and to work on real projects.
